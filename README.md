@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Karely Nicole
 
-<!--
-**ibfk1024250150-ux/Ibfk1024250150-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenida a mi perfil personal! Aquí puedes conocer un poco más sobre mí y las cosas que me gustan.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 Información Personal
+- **Nombre:** Karely Nicole
+- **Edad:** 12 años 🎈
+- **Escuela:** Estudiante en el [Instituto Bilingüe Frida Kahlo](ibfk.edu.mx) 🎓
+
+---
+
+## 🌟 Mis Cosas Favoritas
+
+### 📚 Libros y Cultura
+Me apasiona la **lectura**. Me encanta perderme en nuevas historias y aprender cosas diferentes a través de los libros.
+
+### 🎵 Música
+La **música** es esencial en mi día a día; siempre tengo una canción ideal para cada momento.
+
+### 🐱 Mascotas
+¡Soy una gran fan de los **gatos**! 🐾 Me encantan por lo independientes y cariñosos que son.
+
+---
+
+## 🍹 Un Gusto Especial
+*   **Sabor favorito:** No hay nada mejor que un vaso bien frío de **agua de Jamaica** 🌺.
+
+---
+
+## 🎨 Inspiración
+> *"Pies para qué los quiero, si tengo alas para volar."* 
+> — *Frida Kahlo*
+
+---
+*Actualizado en enero de 2026*
